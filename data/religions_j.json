@@ -1,0 +1,14 @@
+{"Id_religion": 1, "name": "Вера в Семерых", "type": "Монотеизм","clergy": "Септоны (мужчины), септы (женщины)","propagation": "Семь Королевств, ВестеросСевер, Железные","followers": 35715}
+{"Id_religion": 2,"name": "Старые Боги","type": "Политеизм, анимизм","clergy": "Отсутствует","propagation": "Север и Земли за Стеной","followers": 60017}
+{"Id_religion": 3,"name": "Утонувший Бог","type": "Монолатрия","clergy": "Утонувшие люди","propagation": "Железные острова","followers": 58665}
+{"Id_religion": 4,"name": "Многоликий","type": "Монотеизм","clergy": "Безликие","propagation": "Браавос","followers": 6989}
+{"Id_religion": 5,"name": "Владыка Света","type": "Монотеизм","clergy": "Красные жрецы","propagation": "Эссос, в первую очередь — вольные города","followers": 15887}
+{"Id_religion": 6,"name": "Великий Жеребец","type": "Генотеизм","clergy": "Дош кхалин","propagation": "Дотракийское море","followers": 14331}
+{"Id_religion": 7,"name": "Великий Иной","type": "Генотеизм","clergy": "Не известно","propagation": "Слишком мало","followers": 30477}
+{"Id_religion": 8,"name": "Лев Ночи","type": "Генотеизм","clergy": "Не известно","propagation": "Йи Ти","followers": 4046}
+{"Id_religion": 9,"name": "Дева-из-Света","type": "Генотеизм","clergy": "Не известно","propagation": "Йи Ти","followers": 56239}
+{"Id_religion": 10,"name": "Великий Пастух","type": "Монотеизм","clergy": "Божьи жёны","propagation": "Лхазар","followers": 25622}
+{"Id_religion": 11,"name": "Плачущая Госпожа","type": "Генотеизм","clergy": "Не известно","propagation": "Лис","followers": 45598}
+{"Id_religion": 12,"name": "Бородатые жрецы","type": "Священнослужители","clergy": "Не известно","propagation": "Слишком мало","followers": 12651}
+{"Id_religion": 13,"name": "Чёрный Козёл","type": "Монотеизм","clergy": "Не известно","propagation": "Квохор","followers": 32587}
+{"Id_religion": 14,"name": "Лунные Певицы","type": "Генотеизм","clergy": "Не известно","propagation": "Браавос, вольные города","followers": 3721}

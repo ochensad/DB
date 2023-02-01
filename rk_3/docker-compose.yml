@@ -4,11 +4,10 @@ services:
   postgres:
     build: ./
     environment:
-      POSTGRES_DB: Game_of_Thrones
+      POSTGRES_DB: RK2
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: "1234"
     volumes:
-      - ./lab_05:/docker-entrypoint-initdb.d
-      - ./data:/data
+      - ./scr:/docker-entrypoint-initdb.d
     ports:
       - "5432:5432"
